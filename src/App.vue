@@ -56,9 +56,7 @@ function deleteTask(id) {
     </li>
   </ul>
 
-  <p>
-    You typed: {{ newTask }}
-  </p>
+ 
 </template>
 
 <style>
